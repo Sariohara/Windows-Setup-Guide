@@ -7,7 +7,7 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-- [Creating Installation Media](##Creating-Installation-Media)
+- [Creating Installation Media](Creating-Installation-Media)
 - [Installing Windows](##Installing-Windows)
 - [Getting Started](##Getting-Started)
 - [Installing Drivers](##Installing-Drivers)
