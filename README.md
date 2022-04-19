@@ -7,7 +7,7 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-## Creating Installation Media
+## Step 1 - Creating Installation Media
 
 1. Download [Windows](https://www.microsoft.com/en-us/software-download/) - Either Download the ISO Directly or Download the Media Creation Tool, and use it download and save the Windows ISO 
 2. Download [Rufus](https://rufus.ie/en/) 
@@ -20,7 +20,7 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-## Installing Windows
+## Step 2 - Installing Windows
 
 1. Access your BIOS by pressing your `BIOS Key` set by your manufacturer which could be `F1 F2 F10 F12 or DEL` during boot.
 2. Select the USB you just created, and boot from it. You will see something similar to below
@@ -43,7 +43,7 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-## Getting Started
+## Step 3 - Getting Started
 
 1. Update Windows to the Latest.
    - Go to `Settings` > `Windows Update` , and click on `Check for Updates`. It will Download and Install, multiple updates,  including the Graphics Driver (although it can be quite old, will fix this later) and other necessary drivers. 
@@ -73,7 +73,7 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-## Installing Drivers
+## Step 4 - Installing Drivers
 
 ### Graphics Driver. 
 
@@ -126,7 +126,7 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-## Windows Settings
+## Step 5 - Windows Settings
 
 Open `Settings`, and set up any and everything you want according to your preferences. A few settings I recommend switching are : 
 
@@ -183,7 +183,7 @@ Open `Settings`, and set up any and everything you want according to your prefer
 
 - You can also set up almost all of these settings by using another utility [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11). You can also download multiple applications directly through this using Windows Package Manager (You Will Need WinGet for this, the app will guide you to install it)
 
-## Finishing Up
+## Step 6 - Finishing Up
 
 At this point, almost everything is set up and ready to go. Things recommended at this point - 
 
@@ -211,7 +211,7 @@ At this point, almost everything is set up and ready to go. Things recommended a
    - Some Recommended Apps are - [Steam](https://store.steampowered.com/about/) , [Discord](https://discord.com/) , [qBittorrent](https://www.qbittorrent.org/download.php) , [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards) , [WinAero Tweaker](https://winaero.com/download-winaero-tweaker/) , and [ShareX](https://getsharex.com/)
 
 
-## Optional but Recommended Stuff
+## Step 7 - Optional but Recommended Stuff
 
 1. Nilesoft Shell
    - In Windows 11, Microsoft Introduced a new context menu (Menu that opens when you right-click). The problem with this is that even though it looks nicer, it has moved a lot of stuff around, making the basic functionality a lot more tedious.
@@ -243,17 +243,12 @@ handpick the items to integrate into Windows File Explorer context menu, create 
      - Use [this](https://www.mediafire.com/file/tte1yfp9kgzofiu/Disable_Gamebar.reg/file) to `Disable` GameBar.
      - Use [this](https://www.mediafire.com/file/gg9a8ih840m376l/Enable_Gamebar.reg/file) to `Enable` GameBar.
 
+- [Creating Installation Media](##creating-installation-media)
+- [Installing Windows](##installing-windows)
+- [Getting Started](##getting-started)
+- [Installing Drivers](##installing-drivers)
+- [Windows Settings](##windows-settings)
+- [Finishing Up](##finishing-up)
+- [Optional but Recommended Stuff](##optional-but-recommended-stuff)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+***
