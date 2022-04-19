@@ -7,13 +7,13 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-- [Creating Installation Media](##Creating-Installation-Media)
-- [Installing Windows](##Installing-Windows)
-- [Getting Started](##Getting-Started)
-- [Installing Drivers](##Installing-Drivers)
-- [Windows Settings](##Windows-Settings)
-- [Finishing Up](##Finishing-Up)
-- [Optional but Recommended Stuff](##Optional-but-Recommended-Stuff)
+- [Creating Installation Media](##creating-installation-media)
+- [Installing Windows](##installing-windows)
+- [Getting Started](##getting-started)
+- [Installing Drivers](##installing-drivers)
+- [Windows Settings](##windows-settings)
+- [Finishing Up](##finishing-up)
+- [Optional but Recommended Stuff](##optional-but-recommended-stuff)
 
 ***
 
