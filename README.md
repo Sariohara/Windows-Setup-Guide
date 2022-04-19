@@ -183,6 +183,8 @@ Open `Settings`, and set up any and everything you want according to your prefer
 
 - You can also set up almost all of these settings by using another utility [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11). You can also download multiple applications directly through this using Windows Package Manager (You Will Need WinGet for this, the app will guide you to install it)
 
+***
+
 ## Step 6 - Finishing Up
 
 At this point, almost everything is set up and ready to go. Things recommended at this point - 
@@ -210,6 +212,7 @@ At this point, almost everything is set up and ready to go. Things recommended a
    - You can download any and all apps you require from their respective websites. You can also use [Ninite](https://ninite.com/) to make the process a lot simpler. Just select the apps you want, and click on `Get Your Ninite` at the bottom of the page. This will download a custom installer which will install/update all the apps you selected.
    - Some Recommended Apps are - [Steam](https://store.steampowered.com/about/) , [Discord](https://discord.com/) , [qBittorrent](https://www.qbittorrent.org/download.php) , [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards) , [WinAero Tweaker](https://winaero.com/download-winaero-tweaker/) , and [ShareX](https://getsharex.com/)
 
+***
 
 ## Step 7 - Optional but Recommended Stuff
 
@@ -242,13 +245,5 @@ handpick the items to integrate into Windows File Explorer context menu, create 
      - By Default, Windows 11 does not have any option to disable Gamebar. All you can do is stop the controller button from opening GameBar
      - Use [this](https://www.mediafire.com/file/tte1yfp9kgzofiu/Disable_Gamebar.reg/file) to `Disable` GameBar.
      - Use [this](https://www.mediafire.com/file/gg9a8ih840m376l/Enable_Gamebar.reg/file) to `Enable` GameBar.
-
-- [Creating Installation Media](##creating-installation-media)
-- [Installing Windows](##installing-windows)
-- [Getting Started](##getting-started)
-- [Installing Drivers](##installing-drivers)
-- [Windows Settings](##windows-settings)
-- [Finishing Up](##finishing-up)
-- [Optional but Recommended Stuff](##optional-but-recommended-stuff)
 
 ***
