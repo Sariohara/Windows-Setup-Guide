@@ -7,12 +7,13 @@ Step-by-Step Guide to setup a clean install of Windows (10/11)
 
 ***
 
-- [Creating Installation Media](Creating-Installation-Media)
+- [Creating Installation Media](##Creating-Installation-Media)
 - [Installing Windows](##Installing-Windows)
 - [Getting Started](##Getting-Started)
 - [Installing Drivers](##Installing-Drivers)
 - [Windows Settings](##Windows-Settings)
 - [Finishing Up](##Finishing-Up)
+- [Optional but Recommended Stuff](##Optional-but-Recommended-Stuff)
 
 ***
 
@@ -220,7 +221,7 @@ At this point, almost everything is set up and ready to go. Things recommended a
    - Some Recommended Apps are - [Steam](https://store.steampowered.com/about/) , [Discord](https://discord.com/) , [qBittorrent](https://www.qbittorrent.org/download.php) , [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards) , [WinAero Tweaker](https://winaero.com/download-winaero-tweaker/) , and [ShareX](https://getsharex.com/)
 
 
-## Optional, but Recommended Stuff
+## Optional but Recommended Stuff
 
 1. Nilesoft Shell
    - In Windows 11, Microsoft Introduced a new context menu (Menu that opens when you right-click). The problem with this is that even though it looks nicer, it has moved a lot of stuff around, making the basic functionality a lot more tedious.
