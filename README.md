@@ -98,11 +98,12 @@
 
    - Click on `Clean and do NOT Restart`
    - When it has finished cleaning up, again open `MSCONFIG` (steps above) and uncheck `Safe Boot`. Click on Apply and restart your PC
-   - When back on desktop, open the downloaded GPU driver, and go through the installation, unchecking anything you might not neend.
+   
+3. When back on desktop, open the GPU driver downloaded, and go through the installation, unchecking anything you might not neend.
    - When finished installing, open DDU (no need for Safe Mode), click on `Options` and turn off `Prevent downloads of drivers from "Windows Update" when "Windows" search for a driver for a device`.
 
 
-3. Set up the `Nvidia Control panel` with the recommended settings
+4. Set up the `Nvidia Control panel` or `AMD Radeon Control Panel` with the recommended settings. Given Below are the recommended NVIDIA Settings
    
    - Go to `3D Settings` > `Adjust Image Settings with Preview` and Select `Use Advanced 3D Image Settings`
    - Go to `Display` > `Adjust Desktop Size and Position` 
@@ -230,7 +231,7 @@ handpick the items to integrate into Windows File Explorer context menu, create 
    - The Windows Explorer will restart, and you will have a brand new Context Menu.
    - You can edit everything here through the `shell.shl` file located in the directory of this application. Open it with `Notepad` and set it up however you like. I have created a custom [shell.shl](https://www.mediafire.com/file/j41xv1w8a9sgqb2/shell.shl/file) for the version 1.5, for my personal use. You dont need to use it.
    - Whenever you edit stuff in the `shell.shl`, make sure you restart the explorer. You wont see the changes you made otherwise.
-   - You can also revert to the Windows 10 Context Menu by following [this](https://www.tomshardware.com/how-to/restore-windows-10-explorer-windows-11) guide, but there are some highlighting issues that I faced so I Wouldnt Recommend it.
+   - You can also revert to the Windows 10 Context Menu by following [this](https://www.tomshardware.com/how-to/restore-windows-10-explorer-windows-11) guide, but there are some highlighting issues present so it is not recommended.
 
 2. Registry Tweaks
 
