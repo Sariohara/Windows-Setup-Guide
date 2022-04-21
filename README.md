@@ -68,8 +68,8 @@
 
 5. This will make sure you have all the necessary software required to run **_most_** of the programs and games availaible on the internet. Most games will download nay missing softwares automatically.
 
-6. Open `Settings`, Go to `Accessibility`
-   - Go to `Mouse Pointer and Touch` > `Mouse` > `Additional Mouse Settings` > `Pointer Options` and unchecking `Enhance Pointer Precision`. Make sure the Pointer Speed is also set at 6/11
+6. Open `Settings`, Go to `Bluetooth & Devices`
+   - Go to `Mouse` > `Additional Mouse Settings` > `Pointer Options` and unchecking `Enhance Pointer Precision`. Make sure the Pointer Speed is also set at 6/11
 
 ***
 
@@ -133,7 +133,7 @@ Open `Settings`, and set up any and everything you want according to your prefer
 1. Go to `System` 
    - Go to `Display` and set the `Display Resolution` to the Highest Availaible. Also Go to `Advanced Display` and set the Refresh Rate to the Highest Availaible.
    - Go to `Notifications` and turn off notifications from any app you dont want.
-   - Go to `Multi-tasking` and set the `Alt + Tab` button only shows `Open Windows Only`.
+   - Go to `Multi-tasking` and set the `Alt + Tab` button only shows `Open Windows Only`. Also, in the `Snap Windows` drop down menu, uncheck `Show Snap layouts that the app is part of when I hover over the taskbar buttons`
     
 2. Go to `Personalisation`
    - Go to `Colours` and set the mode to `Light` or `Dark`. You can also turn off `Transparency Effects` here. 
@@ -176,20 +176,18 @@ Open `Settings`, and set up any and everything you want according to your prefer
       - Setting this up removes the ***Language Input Indicator*** from the Taskbar, very annoying otherwise.
 
 6. Go to `Gaming`
-   - Click on ***Xbox Game Bar*** and turn off `Open Xbox Gamebar Using this button on a controller`
    - Click on ***Game Mode*** and turn on `Game Mode`
+   - Click on ***Xbox Game Bar*** and turn off `Open Xbox Gamebar Using this button on a controller`
+   - Disable/Enable Gamebar
+     - By Default, Windows 11 does not have any option to disable Gamebar. All you can do is stop the controller button from opening GameBar
+     - Use [this](https://www.mediafire.com/file/tte1yfp9kgzofiu/Disable_Gamebar.reg/file) to `Disable` GameBar.
+     - Use [this](https://www.mediafire.com/file/gg9a8ih840m376l/Enable_Gamebar.reg/file) to `Enable` GameBar.
 
 7. The `Privacy and Security` is all personal preference, but I recommend turning off everything you dont need. Just make sure to not fully turn off all of them, only disable what you know you dont need.
 
 - You can also set up almost all of these settings by using another utility [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11). You can also download multiple applications directly through this using Windows Package Manager (You Will Need WinGet for this, the app will guide you to install it)
 
-***
-
-## Step 6 - Finishing Up
-
-At this point, almost everything is set up and ready to go. Things recommended at this point - 
-
-1. Cleanup your Drives
+8. Cleanup your Drives
    - This can be done through either `Disk Cleanup` (Can be opened by searching ***Disk Cleanup***), a built in Windows Utility, or you can use a third party program like [BurnBytes](https://github.com/builtbybel/burnbytes)
  
         <img src="https://user-images.githubusercontent.com/81617629/163946826-86b59f3c-7c60-470d-a6cc-a38fb99ded46.png">
@@ -198,7 +196,7 @@ At this point, almost everything is set up and ready to go. Things recommended a
    - Both are pretty straight forward. Open whichever one you want to use, select the drive you want to clean up, and select everything you wish to delete. This generally includes stuff like `Windows Update Cleanup` , `Temporary Files` , `Delivery Optimization Files`. 
    - Be careful in what you select, as there is an option to clear out `Downloaded Files` , and this will remove everything from your 'Downloads' folder.
 
-2. Create a Restore Point
+9. ### Create a Restore Point
    - Now that Windows has been set up in the optimal way, you should create a system restore point, so if at any point in the future you need to revert back without doing everything from scratch again, you can use this.
    - Search for ***Create a Restore Point*** and open the app. 
    - Select the Drive on which you Installed Windows and click `Configure`
@@ -208,13 +206,17 @@ At this point, almost everything is set up and ready to go. Things recommended a
 
    - Select `Create` button at the bottom of the dialog box. A new Window will open, put in a name for your Restore Point. Date and Time are added Automatically, and click `Create`. It will take a minute, and then it will finish. Thats it.
 
-3. Installing Apps
-   - You can download any and all apps you require from their respective websites. You can also use [Ninite](https://ninite.com/) to make the process a lot simpler. Just select the apps you want, and click on `Get Your Ninite` at the bottom of the page. This will download a custom installer which will install/update all the apps you selected.
-   - Some Recommended Apps are - [Steam](https://store.steampowered.com/about/) , [Discord](https://discord.com/) , [qBittorrent](https://www.qbittorrent.org/download.php) , [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards) , [WinAero Tweaker](https://winaero.com/download-winaero-tweaker/) , and [ShareX](https://getsharex.com/)
+***
+
+## Step 6 - Installing Apps
+
+- You have multiple options when downloading an application. Man common applications are availaible on the **Microsoft Store**.
+- You can download any and all apps you require from their respective websites. You can also use [Ninite](https://ninite.com/) to make the process a lot simpler. Just select the apps you want, and click on `Get Your Ninite` at the bottom of the page. This will download a custom installer which will install/update all the apps you selected.
+- Some Recommended Apps are - [Steam](https://store.steampowered.com/about/) , [Discord](https://discord.com/) , [qBittorrent](https://www.qbittorrent.org/download.php) , [VLC Media Player](https://www.videolan.org) , [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards) , [WinAero Tweaker](https://winaero.com/download-winaero-tweaker/) , and [ShareX](https://getsharex.com/)
 
 ***
 
-## Step 7 - Optional but Recommended Stuff
+## Optional Stuff
 
 1. Nilesoft Shell
    - In Windows 11, Microsoft Introduced a new context menu (Menu that opens when you right-click). The problem with this is that even though it looks nicer, it has moved a lot of stuff around, making the basic functionality a lot more tedious.
@@ -230,7 +232,7 @@ handpick the items to integrate into Windows File Explorer context menu, create 
    - Whenever you edit stuff in the `shell.shl`, make sure you restart the explorer. You wont see the changes you made otherwise.
    - You can also revert to the Windows 10 Context Menu by following [this](https://www.tomshardware.com/how-to/restore-windows-10-explorer-windows-11) guide, but there are some highlighting issues that I faced so I Wouldnt Recommend it.
 
-2. Messing with the Registry
+2. Registry Tweaks
 
    > ***This next part includes making changes to the registry of Windows. If you are not comfortable doing this, avoiding this step is recommended.***
    
@@ -241,9 +243,6 @@ handpick the items to integrate into Windows File Explorer context menu, create 
    -  Some basic Registry Tweaks. Download [this](https://www.mediafire.com/file/mzq4qrvt38wknqi/RegTweaks.reg/file) file. You can see what changes this will make to the registry by Right-Clicking on this file and clicking `Edit`
       - This disables things like `Power Throttling` , `Network Throttling` ,  `Games Scheduling` , `Automatic Maintainence` and `Menu Show Delay`
      
-   - Gamebar
-     - By Default, Windows 11 does not have any option to disable Gamebar. All you can do is stop the controller button from opening GameBar
-     - Use [this](https://www.mediafire.com/file/tte1yfp9kgzofiu/Disable_Gamebar.reg/file) to `Disable` GameBar.
-     - Use [this](https://www.mediafire.com/file/gg9a8ih840m376l/Enable_Gamebar.reg/file) to `Enable` GameBar.
+
 
 ***
