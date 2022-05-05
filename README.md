@@ -195,7 +195,7 @@ Open `Settings`, and set up any and everything you want according to your prefer
 
  
    - Both are pretty straight forward. Open whichever one you want to use, select the drive you want to clean up, and select everything you wish to delete. This generally includes stuff like `Windows Update Cleanup` , `Temporary Files` , `Delivery Optimization Files`. 
-   - Be careful in what you select, as there is an option to clear out `Downloaded Files` , and this will remove everything from your 'Downloads' folder.
+   - Be careful in what you select, as there is an option to clear out `Downloads`, not to be confused with `Downloaded Files` , and this will remove everything from your 'Downloads' folder.
 
 9. ### Create a Restore Point
    - Now that Windows has been set up in the optimal way, you should create a system restore point, so if at any point in the future you need to revert back without doing everything from scratch again, you can use this.
