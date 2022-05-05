@@ -241,7 +241,7 @@ handpick the items to integrate into Windows File Explorer context menu, create 
      - Open Registry Editor by typing `regedit` in Run `Win + R`
      - At the top left corner, Click `File` > `Export`. Save the backup in a safe place.
 
-   -  Some basic Registry Tweaks. Download [this](https://www.mediafire.com/file/mzq4qrvt38wknqi/RegTweaks.reg/file) file. You can see what changes this will make to the registry by Right-Clicking on this file and clicking `Edit`
+   -  Some basic Registry Tweaks. Download [this](https://www.mediafire.com/file/bg2h0xf02ryn5dt/RegTweaks.reg/file) file. You can see what changes this will make to the registry by Right-Clicking on this file and clicking `Edit`
       - This disables things like `Power Throttling` , `Network Throttling` ,  `Games Scheduling` , `Automatic Maintainence` and `Menu Show Delay`
      
 
